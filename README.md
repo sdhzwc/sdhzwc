@@ -6,8 +6,8 @@
 ### I am sdhzwc
 - Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
-- Currently engaged in JAVA WEB development 和 big data development.
-- I love to learn 和 contribute in any 和 every possible way.
+- Currently engaged in JAVA WEB development and big data development.
+- I love to learn and contribute in any and every possible way.
 
 ## visit volume
 ![Visitor Count](https://profile-counter.glitch.me/sdhzwc/count.svg)
